@@ -1,0 +1,9 @@
+fastapi[all]
+uvicorn
+pydantic
+typing
+python-multipart
+gunicorn
+cryptography==36.0.2
+pysftp
+python-dotenv==0.21.0
